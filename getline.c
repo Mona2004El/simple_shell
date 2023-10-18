@@ -10,7 +10,7 @@
  */
 ssize_t input_buf(info_t *info, char **buffer, size_t *len)
 {
-    int SIGNINT;
+	int SIGNINT;
 	ssize_t r = 0;
 	size_t len_p = 0;
 
